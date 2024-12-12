@@ -1,2 +1,2 @@
 arquivo2
-modificação
+modificação a partir da pasta 1
